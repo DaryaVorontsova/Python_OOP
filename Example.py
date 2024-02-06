@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  7 01:25:10 2024
-
-@author: vorontsova
-"""
-
 class Employee:
     def __init__(self, name, age, position):
         self.name = name
